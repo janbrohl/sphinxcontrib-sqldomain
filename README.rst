@@ -33,6 +33,9 @@ This Domain will contain Directives for:
 - User
 - Group/Layer (undecided)
 
+- Something for rendering overviews and summaries.
+
+
 Links
 -----
 
