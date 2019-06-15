@@ -7,6 +7,13 @@ sphinxcontrib-sqldomain
 
 Sphinx Domain for documenting SQL databases
 
+Help Welcome
+------------
+
+As you can possibly see, this project is currently in early planning - no actual code yet.
+If you have ideas/whishes or see problems I would be glad to see your comments.
+
+
 Overview
 --------
 
