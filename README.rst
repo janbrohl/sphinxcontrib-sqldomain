@@ -6,16 +6,16 @@ This package contains sphinxcontrb.sqldomain, a Sphinx Domain for documenting SQ
 
 This Domain will contain Directives for:
 
-- DB
+- Database
 - Schema
 - Table
 - View
 - Column
 - Type
-- Group/Layer (undecided)
 - Procedure
 - Index
 - Constraint
 - Primary Key
 - Grant
 - User
+- Group/Layer (undecided)
