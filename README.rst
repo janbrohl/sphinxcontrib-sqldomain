@@ -1,8 +1,14 @@
-###########################
-  sphinxcontrib-sqldomain
-###########################
+=======================
+sphinxcontrib-sqldomain
+=======================
 
-This package contains sphinxcontrb.sqldomain, a Sphinx Domain for documenting SQL databases.
+.. image:: https://travis-ci.org/janbrohl/sphinxcontrib-sqldomain.svg?branch=master
+    :target: https://travis-ci.org/janbrohl/sphinxcontrib-sqldomain
+
+Sphinx Domain for documenting SQL databases
+
+Overview
+--------
 
 This Domain will contain Directives for:
 
@@ -19,3 +25,9 @@ This Domain will contain Directives for:
 - Grant
 - User
 - Group/Layer (undecided)
+
+Links
+-----
+
+- Source: https://github.com/janbrohl/sphinxcontrib-sqldomain
+- Bugs: https://github.com/janbrohl/sphinxcontrib-sqldomain/issues
