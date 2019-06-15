@@ -11,4 +11,4 @@ install:
 #- pip install tox-travis
 script:
 #- tox
-- python setup.py build_docs
+- python setup.py build_sphinx
